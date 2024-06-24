@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sérgio Parreiras</h1>
-<h3 align="center">Desenvolvedor FullStack</h3>
+<h3 align="center">Develop FullStack</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
